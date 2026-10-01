@@ -21,7 +21,7 @@ Building backend systems and AI-powered applications, backed by strong DSA and p
 ## 👩‍💻 About Me
 
 - 🎓 Final-year Computer Science Engineering student at **UPES**
-- 🧮 Strong in **DSA and problem solving**: LeetCode Knight (rating 1974, top 2.9%) and Codeforces Pupil
+- 🧮 Strong in **DSA and problem solving**: LeetCode Knight (rating 2000+, top 2.8%) and Codeforces Pupil
 - 🏢 Former **Software Engineering Intern at IBM**, where I built and shipped a hybrid recommendation service
 - ⚙️ Backend-focused: **FastAPI** REST services, **Docker** containerization, and test-driven validation
 - 🤖 Built LLM-based systems including **RAG pipelines**, an **MCP server**, and ML-driven anomaly detection
@@ -183,7 +183,7 @@ Building backend systems and AI-powered applications, backed by strong DSA and p
     <td align="center" width="25%">
       <b>LeetCode</b><br>
       Knight<br>
-      Top 2.9% · Rating 1974<br><br>
+      Top 2.8% · Rating 2000+<br><br>
       <a href="https://leetcode.com/u/nitya_shukla1/"><img src="https://img.shields.io/badge/Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode profile"></a>
     </td>
     <td align="center" width="25%">
