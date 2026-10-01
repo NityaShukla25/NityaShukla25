@@ -36,7 +36,7 @@ Building backend systems and AI-powered applications, backed by strong DSA and p
     <td colspan="2" align="center" width="33%">
       <h3>🏆</h3>
       <b>LeetCode Knight</b><br>
-      Top 2.9% · Rating 1974
+      Top 2.8% · Rating 2000+
     </td>
     <td colspan="2" align="center" width="33%">
       <h3>🟣</h3>
