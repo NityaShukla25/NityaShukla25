@@ -22,6 +22,7 @@ Building backend systems and AI-powered applications, backed by strong DSA and p
 
 - 🎓 Final-year Computer Science Engineering student at **UPES**
 - 🧮 Strong in **DSA and problem solving**: LeetCode Knight (rating 2000+, top 2.8%) and Codeforces Pupil
+- 🌏 **2x ICPC Regionalist (2026)**, competing at the regional level of the world's largest collegiate programming contest
 - 🏢 Former **Software Engineering Intern at IBM**, where I built and shipped a hybrid recommendation service
 - ⚙️ Backend-focused: **FastAPI** REST services, **Docker** containerization, and test-driven validation
 - 🤖 Built LLM-based systems including **RAG pipelines**, an **MCP server**, and ML-driven anomaly detection
@@ -33,35 +34,38 @@ Building backend systems and AI-powered applications, backed by strong DSA and p
 
 <table align="center">
   <tr>
-    <td colspan="2" align="center" width="33%">
+    <td align="center" width="33%">
       <h3>🏆</h3>
       <b>LeetCode Knight</b><br>
       Top 2.8% · Rating 2000+
     </td>
-    <td colspan="2" align="center" width="33%">
+    <td align="center" width="33%">
+      <h3>🌏</h3>
+      <b>2x ICPC Regionalist</b><br>
+      ICPC 2026
+    </td>
+    <td align="center" width="33%">
       <h3>🟣</h3>
       <b>Codeforces Pupil</b><br>
       Rated competitor
     </td>
-    <td colspan="2" align="center" width="33%">
+  </tr>
+  <tr>
+    <td align="center" width="33%">
       <h3>🚀</h3>
       <b>Flipkart GRiD 8.0</b><br>
       Advanced to Round 3
     </td>
-  </tr>
-  <tr>
-    <td colspan="1"></td>
-    <td colspan="2" align="center">
+    <td align="center" width="33%">
       <h3>💻</h3>
       <b>HackerRank Gold</b><br>
       Problem-solving badge
     </td>
-    <td colspan="2" align="center">
+    <td align="center" width="33%">
       <h3>🎯</h3>
       <b>GeeksforGeeks</b><br>
       Top university-level performance
     </td>
-    <td colspan="1"></td>
   </tr>
 </table>
 
@@ -180,22 +184,27 @@ Building backend systems and AI-powered applications, backed by strong DSA and p
 
 <table align="center">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <b>LeetCode</b><br>
       Knight<br>
       Top 2.8% · Rating 2000+<br><br>
       <a href="https://leetcode.com/u/nitya_shukla1/"><img src="https://img.shields.io/badge/Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode profile"></a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <b>Codeforces</b><br>
       Pupil<br><br><br>
       <a href="https://codeforces.com/profile/Nitya_Shukla"><img src="https://img.shields.io/badge/Profile-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces profile"></a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
+      <b>ICPC</b><br>
+      2x Regionalist<br>
+      2026
+    </td>
+    <td align="center" width="20%">
       <b>GeeksforGeeks</b><br>
       Top university-level<br>performance
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <b>HackerRank</b><br>
       Gold<br>
     </td>
