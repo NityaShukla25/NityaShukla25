@@ -54,7 +54,7 @@ Building backend systems and AI-powered applications, backed by strong DSA and p
     <td align="center" width="33%">
       <h3>🚀</h3>
       <b>Flipkart GRiD 8.0</b><br>
-      Advanced to Round 3
+      Semi Finalist
     </td>
     <td align="center" width="33%">
       <h3>💻</h3>
